@@ -1,5 +1,4 @@
-# Audio Signal Separation and Filtering with FFT and Spectrograms
-
+# Audio Signal Separation and Filtering with FFT and Gaussian Smoothing
 ## Overview
 
 This project explores how **frequency-domain analysis** can be used to process and separate overlapping animal sounds from a mixed environmental recording.  
@@ -71,7 +70,7 @@ The notebook demonstrates a complete workflow in **digital signal processing** �
 
 Audio-Signal-Separation/
 │
-├── Audio Signal Separation and Filtering with FFT and Spectrograms.ipynb   # Main notebook
+├── Audio Signal Separation and Filtering with FFT and Gaussian Smoothing.ipynb   # Main notebook
 ├── Jungle-SoundBible.com-1211567897.wav                                   # Sample audio file
 ├── README.md                                                              # Project overview
 ├── LICENSE                                                                # MIT License
@@ -108,6 +107,6 @@ The included audio file originates from [SoundBible.com](https://soundbible.com/
 ##  Author
 
 **Evelina Ivanova**  
-Data Science & Machine Learning Enthusiast  
- GitHub: [@evelinaiv](https://github.com/evelinaiv)
+MSc Data Science 
+GitHub: [@evelinaiv](https://github.com/evelinaiv)
 
